@@ -1,0 +1,14 @@
+.display {
+  width: 100px;
+  height: 80px;
+  margin: 1.5rem;
+  line-height: 80px;
+}
+
+.negative {
+  background: rgb(238, 97, 97);
+}
+
+.positive {
+  background: rgb(124, 124, 245);
+}
